@@ -1,0 +1,12 @@
+ Vector of Numbers in Regular Order
+ 5
+ 19
+ 23
+ 37
+ 43
+ Vector of Numbers in Reverse Order
+ 43
+ 37
+ 23
+ 19
+ 5
